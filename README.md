@@ -10,5 +10,5 @@ nasm file_name.asm
 
 - Then run in qemu
 ```bash
-qemu-system-i386 file_name
+qemu-system-i386 file_name.bin
 ```
