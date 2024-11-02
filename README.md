@@ -1,3 +1,3 @@
 # Йа ни понил прикола
-'''bash
+```bash
 HelloWorld("print")
